@@ -1,0 +1,123 @@
+何静
+
+原型：（5分） 
+axure，visio，墨刀，Pop ，
+
+必选一得5分。如你所见，这些更是产品经理的必懂的工具，从程序员哥哥做到全栈哥哥，居然不懂，对不起天地啊。
+
+app：（10分）
+安卓，iOS，webapp(react，vue，angularjs)，react native。
+
+说明：
+app都不会，微信平台不会，小程序不会，算什么全栈？
+懂app开发加5分，懂webapp加5分。
+
+
+页面：（5分）
+html5，css，bootstrap，jquery 都懂加5分，懂大部分加3分。
+（不负责解释什么是懂）
+
+说明：这个是基本功。
+
+
+脚本语言：（5分）
+python，lua，ruby，php。
+
+说明：作为全栈工程师，居然不会2种以上的脚本语言，python必须会的吧，产品经理都会，2种以上加5分，1种加3分，
+
+函数语言：（5分）
+haskell，Scala。
+
+说明：以后是函数语言的天下，现在主流语言都插入函数语言功能，不会以后会被淘汰。
+1样加5分。
+
+编译语言：（10分）
+java，c，c++，c#，go 。
+
+说明：java和c++必须会，c#现在也是跨平台，go不是差不多吗？
+3种以上加10分，2种加5分，1种加3分。
+
+api 设计工具：（5分）
+RESTful api，swagger。
+
+说明：
+api的设计，工具，现在非常重要，很多互联网公司就是以api为核心，会设计合格的api加3分，会自动文档和使用工具加5分。
+
+框架：（10）
+nodejs，springboot（springmvc）,django，rail，
+
+thinkphp， .NET。
+
+说明：spring在java领域最近有一统天下的趋势，现在懂语言不懂框架，没生产力，只要懂2种以上的框架才会相互借鉴，spring从rail和django获取了不少经验。
+2种以上框架和微服务加10分，懂2种加7分，一种加5分。
+
+sql：（5）
+mysql，oracle，sql server 必选一，懂得sql索引优化加分，分布配置加分。
+
+说明：
+sql都不懂，算什么工程师？
+
+
+
+no sql，消息队列（5）
+redis，mongodb, memcached。
+
+说明：
+没有redis,mongodb,如何开发高并发程序？
+无消息队列无法处理异步系统。
+
+懂3种才能加5分，2种加3分，1种？额，加1分。
+
+
+RPC和分布式架构（10）
+thrift，web service，pb，gRPC 加分项，
+dubbo,zookeeper 分布式架构，微服务。
+
+说明：
+必须要会thrift或grpc，这样才有利用各个语言的优势，进行大团队协助。还必须懂分布式架构，这样才能把rpc整合起来，懂rpc加5分，懂分布式架构加5分。
+
+
+服务器配置（5）
+nginx,tomcat,jetty,apache,openresty,varnish，必须2个才能加5分。
+
+说明：
+nginx和tomcat基本都是标配了，懂2种以上加5分，其他加2分。
+
+
+开发流程和源码管理，可持续集成，容器（5）
+svn，git，Jenkins，docker，jira，diffy。
+
+说明：
+如果你不懂开发流程，持续发布，自动测试，你没办法建立10人以上的团队和快速迭代，懂整个流程的加5分，懂可持续集成和源码的加3分，只懂源码控制的加2分。
+
+
+大数据（10）
+Hadoop，spark，kafka，hive，Elasticsearch。
+
+说明：
+大数据现在不仅仅是分析，现在略微大点系统都依赖于大数据。
+
+（懂3种以上加10分，懂2种加5分，懂1种加3分）
+
+
+第三方工具（5）
+要知道阿里云，七牛，cdn,聚合api，pingxx，友盟，face++,等各种sdk（做过）
+
+说明:
+第三方工具至少要懂3个以上才能加5分。
+
+
+打分说明：
+60分以上勉强算全栈入门，70分算合格，80以上算资深，90以上你是大牛。
+收入标准：
+60分工资20-30 ，70分工资30-50， 80分以上收入50-100，90以上看你脾气。
+（单位不扯，自己心里清楚，我也不想被喷）
+
+最后再分享一下我们团队目前采用技术栈，喜欢的欢迎勾搭：
+react，安卓，iOS
+restfulapi swagger
+springboot java
+thrift c++，python
+mysql，mongodb，redis
+docker，docket
+hadoop，essearch
